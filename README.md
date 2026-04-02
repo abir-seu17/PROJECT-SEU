@@ -6,7 +6,7 @@
 
 ## 📖 Overview
 
-This repository contains presentation materials, reports and resources for SEU-CSE1102-GS0105. It serves as a central hub for group and instructors to collaborate, share knowledge, and track progress throughout the semester.
+This repository contains presentation materials, reports and resources for SEU-CSE1102-GS0101. It serves as a central hub for group and instructors to collaborate, share knowledge, and track progress throughout the semester.
 
 ---
 
