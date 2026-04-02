@@ -23,9 +23,9 @@ This repository contains presentation materials, reports and resources for SEU-C
 ### Students (Group S0105)
 | # | Name | GitHub |
 |---|------|--------|
-| 1 | ABIR CHOWDHURY | [https://github.com/abir-seu17) |
-| 2 | NOWSHIN BINTA ANITA | [https://github.com/nowshinbintaanita-cmyk) |
-| 3 | SAHARIN ISLAM | [https://github.com/saharinislam) |
+| 1 | ABIR CHOWDHURY | https://github.com/abir-seu17 |
+| 2 | NOWSHIN BINTA ANITA | https://github.com/nowshinbintaanita-cmyk |
+| 3 | SAHARIN ISLAM | https://github.com/saharinislam |
 
 
 ---
